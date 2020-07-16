@@ -8,6 +8,11 @@ I like **technology and collaborative projects**, I worked within two Horizon 20
 
 I love **creative arts and science**, I do sell my own paintings and offer some visual art services, like websites and brand visual identity creation. I am always interested in creating mobile apps or IoT solutions to impact the world.
 
+Find some of my repositories:
+
+- https://github.com/antoinedme/experience-iot
+- https://github.com/antoinedme/titanic-dataset-ml
+
 
 <!--
 **antoinedme/antoinedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
