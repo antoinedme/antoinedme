@@ -5,9 +5,6 @@ I like **technology and collaborative projects**, I worked within two Horizon 20
 
 **Embedded Systems Engineer**, I received a master's degree from ECE Paris and had the opportunity to share my time between Europe and South-East Asia and Asia Pacific countries. I specialized in Internet-of-Things, playing around with electronics components and controllers.
 
-
-I love **creative arts and science**, I do sell my own paintings and offer some visual art services, like websites and brand visual identity creation. I am always interested in creating mobile apps or IoT solutions to impact the world.
-
 Find some of my repositories:
 
 - https://github.com/antoinedme/experience-iot
