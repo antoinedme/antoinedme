@@ -7,8 +7,8 @@ I like **technology and collaborative projects**, I worked within two Horizon 20
 
 Find some of my repositories:
 
-- https://github.com/antoinedme/experience-iot
-- https://github.com/antoinedme/titanic-dataset-ml
+- About my work in Singapore: https://github.com/antoinedme/experience-iot
+- About Machine Learning workshop: https://github.com/antoinedme/titanic-dataset-ml
 
 
 <!--
