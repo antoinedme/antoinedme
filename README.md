@@ -1,4 +1,4 @@
-## Hello there!
+## Hello there, I'm Antoine!
 
 I like **technology and collaborative projects**, I worked within two Horizon 2020 projects, EU Framework Programme for Research and Innovation. The overall objective is to create an innovative framework on ICT tools and services that can be deployed in cities to improve the health of the population in the urban context. 
 
